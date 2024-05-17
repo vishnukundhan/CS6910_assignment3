@@ -23,4 +23,4 @@ Question 3 : This is about making inferences from the available plots (from the 
 
 Question 5 : This question is about introducing attention layer in our seq2seq model . The necessery plots are uploaded in report and the codefile is uploaded in github repo
 
-Link to the wandb report is = https://wandb.ai/vishnukundhan333/CS6910_assignment3/reports/DL-Assignment-3--Vmlldzo3OTkzMjcx/edit
+Link to the wandb report is = [https://wandb.ai/vishnukundhan333/CS6910_assignment3/reports/DL-Assignment-3--Vmlldzo3OTkzMjcx/edit](https://wandb.ai/vishnukundhan333/CS6910_assignment3/reports/DL-Assignment-3--Vmlldzo3OTc3Njcw)
